@@ -1,3 +1,4 @@
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -13,6 +14,7 @@
     </td>
   </tr>
 </table>  
+
 
 ## &#x1F534; Hello!
 
@@ -43,7 +45,7 @@ meaning | Publication| Preprint
 
 &nbsp; &#x1F324;  **Shuo X**; Gang C; Weiwei L；Xincheng X. A Physics-driven X-ray Image Data Augmentation Method For Automated Threat Detection In Nuclear Facility Entrancement [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
-&nbsp; &#x1F324; Jiahua C; Litao W; **Shuo X**.  Simulation Research on the New Electrode Structure of Ionization Chamber Detector[C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
+&nbsp; &#x1F324; Jiahua C; Zhentao W; **Shuo X**.  Simulation Research on the New Electrode Structure of Ionization Chamber Detector[C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
 &nbsp; &#x1F324; Yuchen Z; **Shuo X**；Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
