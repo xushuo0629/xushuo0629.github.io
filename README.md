@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## &#x1F534; Hello!
 
-You can use the [editor on GitHub](https://github.com/xushuo0629/xushuo0629.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by **Xincheng Xiang**. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## &#x1F7E0; Research Interests
 
-### Markdown
+(to be completed)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## &#x1F7E1; Education
 
-```markdown
-Syntax highlighted code block
+(to be completed)
 
-# Header 1
-## Header 2
-### Header 3
+## &#x1F7E2; Publications & Preprint
 
-- Bulleted
-- List
+(to be completed)
 
-1. Numbered
-2. List
+&nbsp; &#x2B50; Zhang, Y.; Xu, S.; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
 
-**Bold** and _Italic_ and `Code` text
+&nbsp; &#x2B50; 李伟伟,王立强,郑健,许硕.圆柱法测量X射线管焦点尺寸的研究[J/OL].原子能科学技术:1-10[2022-05-22].http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## &#x1F535; others
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xushuo0629/xushuo0629.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(to be completed)
