@@ -30,11 +30,13 @@
 ## &#x1F7E2;Publications & Preprint 📚 
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
 
+&nbsp;
 
 ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD; 
    --   | --          | --        |  --      |  --  
 **MEANING** | Article     | Conference|  Patent  |  Preprint  
 
+&nbsp;
 
 &nbsp; &#x2B50; Zhang, Y.; **Xu, S.**; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
 
@@ -59,6 +61,8 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 ResearchGate: [Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21)
 
 InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493811ba?originalSubdomain=cn)
+
+&nbsp;
 
  <p align="right">
   <b><i>
