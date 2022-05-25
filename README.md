@@ -32,9 +32,9 @@ I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (I
 (to be completed)  
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
 
-emoji   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD; 
+ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD; 
    --   | --          | --        |  --      |  --  
-meaning | Article     | Conference|  Patent  |  Preprint  
+**MEANING** | Article     | Conference|  Patent  |  Preprint  
 
 &nbsp; &#x2B50; Zhang, Y.; **Xu, S.**; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
 
@@ -56,4 +56,11 @@ meaning | Article     | Conference|  Patent  |  Preprint
 
 ## &#x1F534; others
 
-(to be completed)
+ResearchGate: [Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21)
+
+InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493811ba?originalSubdomain=cn)
+
+
+
+
+ 
