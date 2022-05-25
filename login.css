@@ -1,0 +1,6 @@
+/* 增加背景图 */
+body {
+    background: url("../img/bg1.jpg") center; /* 首先增加背景图 */
+    background-size: 100% auto; /* 设置背景的大小 */
+    background-repeat: no-repeat; /* 将背景设置为不重复显示 */
+}
