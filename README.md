@@ -1,12 +1,8 @@
 
-<body background="./figures/b.jpg">
-</body>
-
-
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>&ensp; &#x1F300;	许硕</h1>   
+      <h1>  &ensp; &#x1F300;许硕 </h1>   
       <p><b> &ensp;&ensp;&ensp; Ph.D. candidate</b></p>
       <p><b> &ensp;&ensp;&ensp; INET 501 of Tsinghua University</b></p>
       <p><b> &ensp;&ensp;&ensp; E-mail：xu-s19@mails.tsinghua.edu.cn</b></p>
@@ -21,24 +17,23 @@
 
 ## &#x1F535; Hello! 👋
 
-I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by **Xincheng Xiang**. 
+&ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by **Xincheng Xiang**. 
 
 ## &#x1F7E0;Research Interests 👁‍🗨
 
-(to be completed)
+<center>(to be completed)</center>
 
 ## &#x1F7E1; Education 🎓
 
-(to be completed)
+<center>(to be completed)</center>
 
 ## &#x1F7E2;Publications & Preprint 📚 
-
-(to be completed)  
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
 
 ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD; 
    --   | --          | --        |  --      |  --  
 **MEANING** | Article     | Conference|  Patent  |  Preprint  
+
 
 &nbsp; &#x2B50; Zhang, Y.; **Xu, S.**; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
 
@@ -56,7 +51,7 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 
 &nbsp; &#x1F514; **许硕**, 孙跃文, 丛鹏, 童建民, 向新程. 图像处理方法、装置、设备、存储介质和计算机程序产品：中国，202210322761.3[P].2022-03-30.
 
-&nbsp; &#x1F514; &nbsp; (&#x1F4DD;)  **许硕**, 李伟伟, 朱波. 一种基于机器学习的饮用水加氯量优化方法：中国，2022106xxxx.x[P].2022-06-xx. ()
+&nbsp; &#x1F514; &nbsp; (&#x1F4DD;)  **许硕**, 李伟伟, 朱波. 一种基于机器学习的饮用水加氯量优化方法：中国，2022106xxxx.x[P].2022-06-xx. 
 
 ## &#x1F534; others
 
@@ -64,4 +59,8 @@ ResearchGate: [Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21)
 
 InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493811ba?originalSubdomain=cn)
 
- 
+ <p align="right">
+  <b><i>
+  Copyright&copy 2022 ShuoXu. 
+  </b></i>
+</p>
