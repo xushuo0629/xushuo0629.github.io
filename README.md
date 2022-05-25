@@ -21,14 +21,15 @@
 
 ## &#x1F7E0;Research Interests 👁‍🗨
 
-<center>(to be completed)</center>
+(to be completed)
 
 ## &#x1F7E1; Education 🎓
 
-<center>(to be completed)</center>
+(to be completed)
 
 ## &#x1F7E2;Publications & Preprint 📚 
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
+
 
 ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD; 
    --   | --          | --        |  --      |  --  
@@ -62,5 +63,5 @@ InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493
  <p align="right">
   <b><i>
   Copyright&copy 2022 ShuoXu. 
-  </b></i>
+  </i></b>
 </p>
