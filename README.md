@@ -62,6 +62,6 @@ InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493
 
  <p align="right">
   <b><i>
-  Copyright&copy 2022 ShuoXu. 
+  Copyright &#x00A9; 2022 ShuoXu. 
   </i></b>
 </p>
