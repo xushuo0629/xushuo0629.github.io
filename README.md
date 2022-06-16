@@ -10,7 +10,7 @@
       <p><b> &ensp;&ensp;&ensp; Languages: Chinese, English</b></p>
     </td>
     <td width="25%">
-      <img src="/figures/m.jpg" width="100%">   
+      <img src="/figures/m1.jpg" width="100%">   
     </td>
   </tr>
 </table>  
