@@ -17,7 +17,7 @@
 
 ## &#x1F535; Hello! 👋
 
-&ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by **Xincheng Xiang**. 
+&ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Xincheng Xiang**](https://baike.baidu.com/item/%E5%90%91%E6%96%B0%E7%A8%8B/49798479?fr=aladdin). 
 
 ## &#x1F7E0;Research Interests 👁‍🗨
 
