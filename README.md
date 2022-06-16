@@ -21,11 +21,16 @@
 
 ## &#x1F7E0;Research Interests 👁‍🗨
 
-(to be completed)
+&nbsp; 🎈 X-ray Image ; Radiography; Image Reconstruction ; 
+
+&nbsp; 🎈 Machine Learning ; Deep Learning ; Image Segmentation ; Image Denoising 
 
 ## &#x1F7E1; Education 🎓
 
-(to be completed)
+
+2015.08  - 2019.06 ： Xi'an Jiaotong University  （Bachelor）
+
+2019.08  - 2024.06 ： Tsinghua University  （Ph.D. candidate）
 
 ## &#x1F7E2;Publications & Preprint 📚 
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
@@ -38,21 +43,23 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 
 &nbsp;
 
-&nbsp; &#x2B50; Zhang, Y.; **Xu, S.**; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
+&nbsp; &#x2B50;  **Xu, S.**;Zhang, Y.; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. https://doi.org/10.3390/app12105187
 
 &nbsp; &#x2B50; Zongyang L, Huajian C, Kun H, Fangfang F, Lian C, **Shuo X**,. Investigation on the effect of low aspect ratio on heat transfer characteristics for light metallic layer[J]. Progress in Nuclear Energy, 2021, 136: 103732. https://doi.org/10.1016/j.pnucene.2021.103732
 
 &nbsp; &#x2B50; 李伟伟, 王立强, 郑健, **许硕**. 圆柱法测量X射线管焦点尺寸的研究[J/OL].原子能科学技术:1-10[2022-05-22].http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html
 
-&nbsp; &#x2B50; 李伟伟, 王立强, **许硕**, 郑健. X射线管灯丝参数及其温度分布计算的研究[J/OL].真空电子技术:[2022-05-24].
+&nbsp; &#x2B50; &nbsp; (&#x1F4DD;)  李伟伟, 王立强, **许硕**, 郑健. X射线管灯丝参数及其温度分布计算的研究[J/OL].真空电子技术:[2022-05-24].
 
-&nbsp; &#x1F324; &nbsp; (&#x1F4DD;)   **Shuo X**; Gang C; Weiwei L；Xincheng X. A Physics-driven X-ray Image Data Augmentation Method For Automated Threat Detection In Nuclear Facility Entrancement [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
+&nbsp; &#x1F324;    **Shuo X**; Gang C; Weiwei L；Xincheng X. A Physics-driven X-ray Image Data Augmentation Method For Automated Threat Detection In Nuclear Facility Entrancement [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.**（accepted）**
 
-&nbsp; &#x1F324; &nbsp; (&#x1F4DD;)  Jiahua C; Zhentao W; **Shuo X**.  Simulation Research on the New Electrode Structure of Ionization Chamber Detector[C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
+&nbsp; &#x1F324;   Jiahua C; Zhentao W; **Shuo X**.  Simulation Research on the New Electrode Structure of Ionization Chamber Detector[C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.**（accepted）**
 
-&nbsp; &#x1F324; &nbsp; (&#x1F4DD;)  Yuchen Z; **Shuo X**；Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
+&nbsp; &#x1F324;  Yuchen Z; **Shuo X**；Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.**（accepted）**
 
 &nbsp; &#x1F514; **许硕**, 孙跃文, 丛鹏, 童建民, 向新程. 图像处理方法、装置、设备、存储介质和计算机程序产品：中国，202210322761.3[P].2022-03-30.
+
+&nbsp; &#x1F514; 张清明, **许硕**, 陈斐, 危光友, 邵壮. 一种中子剂量当量率仪的优化设计方法：中国，201811618609.X[P].2018-12-28.
 
 &nbsp; &#x1F514; &nbsp; (&#x1F4DD;)  **许硕**, 李伟伟, 朱波. 一种基于机器学习的饮用水加氯量优化方法：中国，2022106xxxx.x[P].2022-06-xx. 
 
