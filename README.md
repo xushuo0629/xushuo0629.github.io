@@ -15,13 +15,16 @@
   </tr>
 </table>  
 
+
 ## &#x1F535; Hello! 👋
 
 &ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Xincheng Xiang**](https://baike.baidu.com/item/%E5%90%91%E6%96%B0%E7%A8%8B/49798479?fr=aladdin). 
 
 ## &#x1F7E0;Research Interests 👁‍🗨
 
-&nbsp; 🎈 X-ray Image ; Radiography; Image Reconstruction ; 
+&nbsp; 🎈 X-ray Image ; Radiography; Image Reconstruction ;
+
+&nbsp; 🎈 Radiation Field Calculation; Radiation Source Reverse; Inverse Method
 
 &nbsp; 🎈 Machine Learning ; Deep Learning ; Image Segmentation ; Image Denoising 
 
@@ -60,7 +63,7 @@ Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
 
 &nbsp; &#x1F324;  Yuchen Z; **Shuo X**; Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
-&nbsp; &#x1F324; 姜世博, **许硕**, 孙跃文, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[C]//中国核学会青年论坛暨2022中国核科学与技术博士生论坛.
+&nbsp; &#x1F324; &nbsp; (&#x1F4DD;) 姜世博, **许硕**, 孙跃文, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[C]//中国核学会青年论坛暨2022中国核科学与技术博士生论坛.
 
 &nbsp; &#x1F514; **许硕**, 孙跃文, 丛鹏, 童建民, 向新程. 图像处理方法、装置、设备、存储介质和计算机程序产品：中国，202210322761.3[P].2022-03-30.
 
