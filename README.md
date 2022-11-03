@@ -48,7 +48,7 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 &nbsp; &#x2B50; Zongyang L, Huajian C, Kun H, Fangfang F, Lian C, **Shuo X**. Investigation on the effect of low aspect ratio on heat transfer characteristics for light metallic layer[J]. Progress in Nuclear Energy, 2021, 136: 103732. [https://doi.org/10.1016/j.pnucene.2021.103732](https://doi.org/10.1016/j.pnucene.2021.103732)
 
 &nbsp; &#x2B50; &nbsp; (&#x1F4DD;)  **Shuo X**;Yuewen S;Zehuan Z;Zhizheng Z;Gang C;Peng T;Xincheng X.  [**XSformer**](https://github.com/xushuo0629/XSformer): A Deep-learning based Method for Calculating the γ-Ray
-Build-Up Factor for Multilayer Shields[J].
+Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
 
 &nbsp; &#x2B50; 李伟伟, 王立强, 郑健, **许硕**. 圆柱法测量X射线管焦点尺寸的研究[J/OL].原子能科学技术:1-10[2022-05-22][http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html](http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html)
 
