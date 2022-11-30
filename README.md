@@ -55,7 +55,7 @@ Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
 
 &nbsp; &#x2B50; 李伟伟, 王立强, 郑健, **许硕**. 圆柱法测量X射线管焦点尺寸的研究[J/OL].原子能科学技术:1-10[2022-05-22][http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html](http://kns.cnki.net/kcms/detail/11.2044.TL.20220324.1843.002.html)
 
-&nbsp; &#x2B50; &nbsp; (&#x1F4DD;)  李伟伟, 王立强, **许硕**, 郑健. X射线管灯丝参数及其温度分布计算的研究[J/OL].真空电子技术:[2022-05-24].
+&nbsp; &#x2B50; 李伟伟, 王立强, **许硕**, 郑健. X射线管灯丝参数及其温度分布计算的研究[J/OL].真空电子技术:[2022-05-24].
 
 &nbsp; &#x1F324;    **Shuo X**; Gang C; Weiwei L; Xincheng X. A Physics-driven X-ray Image Data Augmentation Method For Automated Threat Detection In Nuclear Facility Entrancement [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
