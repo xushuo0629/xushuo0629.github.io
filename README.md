@@ -63,7 +63,9 @@ Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
 
 &nbsp; &#x1F324;  Yuchen Z; **Shuo X**; Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
-&nbsp; &#x1F324; &nbsp; (&#x1F4DD;) 姜世博, **许硕**, 孙跃文, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[C]//中国核学会青年论坛暨2022中国核科学与技术博士生论坛.
+&nbsp; &#x1F324; &nbsp; (&#x1F4DD;) 姜世博, 孙跃文, **许硕**, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[J].哈尔滨工程大学学报,2022,43(12):1766-1771. 
+
+&nbsp; &#x1F324; &nbsp; (&#x1F4DD;) 姜世博, 孙跃文, **许硕**, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[C].中国核学会青年论坛暨2022中国核科学与技术博士生论坛,2023. (会议最佳论文奖)
 
 &nbsp; &#x1F514; **许硕**, 孙跃文, 丛鹏, 童建民, 向新程. 图像处理方法、装置、设备、存储介质和计算机程序产品：中国，202210322761.3[P].2022-03-30.
 
