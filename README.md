@@ -46,9 +46,11 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 
 &nbsp;
 
-&nbsp; &#x2B50;  **Xu, S.**;Zhang, Y.; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. [https://doi.org/10.3390/app12105187](https://doi.org/10.3390/app12105187)
+&nbsp; &#x2B50;  **Xu, S.**; Zhang, Y.; Li, H.; Kong, Z.; Xiang, X.; Cheng, X.; Liu, S. Deep Learning-Based Denoising in Brain Tumor CHO PET: Comparison with Traditional Approaches. Appl. Sci. 2022, 12, 5187. [https://doi.org/10.3390/app12105187](https://doi.org/10.3390/app12105187)
 
 &nbsp; &#x2B50; Zongyang L, Huajian C, Kun H, Fangfang F, Lian C, **Shuo X**. Investigation on the effect of low aspect ratio on heat transfer characteristics for light metallic layer[J]. Progress in Nuclear Energy, 2021, 136: 103732. [https://doi.org/10.1016/j.pnucene.2021.103732](https://doi.org/10.1016/j.pnucene.2021.103732)
+
+&nbsp; &#x2B50; &nbsp; (&#x1F4DD;)  **Shuo X**; Yucheng Z; Gang C; Peng C; Xincheng X; Yuewen S*. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction.[J]. IEEE Transactions on Medical Imaging.(Submitted)
 
 &nbsp; &#x2B50; &nbsp; (&#x1F4DD;)  **Shuo X**;Yuewen S;Zehuan Z;Zhizheng Z;Gang C;Peng T;Xincheng X.  [**XSformer**](https://github.com/xushuo0629/XSformer): A Deep-learning based Method for Calculating the γ-Ray
 Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
@@ -62,6 +64,15 @@ Build-Up Factor for Multilayer Shields.[J] arXiv to be posted on.
 &nbsp; &#x1F324;   Jiahua C; Zhentao W; **Shuo X**.  Simulation Research on the New Electrode Structure of Ionization Chamber Detector[C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
 
 &nbsp; &#x1F324;  Yuchen Z; **Shuo X**; Xincheng X. Measurement Of Two-phase Flow: Static Ct System Based On Carbon Nanotubes [C]// Proceedings of the 29th International Conference on Nuclear Engineering, ICONE 2022.
+
+&nbsp; &#x1F324; &nbsp; (&#x1F4DD;)G. Chen, **S. Xu**, T. Zeng, Y. Sun, X. Xiang. Research And Development Volume Detection System for Graphite and Carbon Components Based on Electron Linear Accelerator.[C]// 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference
+
+&nbsp; &#x1F324; &nbsp; (&#x1F4DD;) **S. Xu**, Y. Sun, Y. Zhang, J. Fu, X. Xiang, P. Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging.[C]// 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference
+
+&nbsp; &#x1F324; Jintao Fu, Renjie Liu, Yuewen Sun, Tianchen Zeng, Haoyu Liu, **Shuo Xu**, Peng Cong. Research on intelligent detection of defects in HTR-PM graphite and carbon components based on deep learning.[C]// Proceedings of the 30th International Conference on Nuclear Engineering, ICONE 2023.
+
+&nbsp; &#x1F324; Tianchen Zeng, Yuewen Sun, Renjie Liu, Haoyu Liu, **Shuo Xu**, Gang Chen, Jintao Fu, Peng Cong. Monte Carlo-based Scatter Correction Method for CT Non-destructive Detection of Carbon/Graphite Bricks in HTGR.[C]// Proceedings of the 30th International Conference on Nuclear Engineering, ICONE 2023.
+
 
 &nbsp; &#x1F324; &nbsp; (&#x1F4DD;) 姜世博, 孙跃文, **许硕**, 吴志芳.基于生成对抗网络的工业CT图像金属伪影校正方法.[J].哈尔滨工程大学学报,2022,43(12):1766-1771. 
 
@@ -84,6 +95,6 @@ Github: [xushuo0629](https://github.com/xushuo0629)
 
  <p align="right">
   <b><i>
-  Copyright &#x00A9; 2022 ShuoXu. 
+  Copyright &#x00A9; 2023 ShuoXu. 
   </i></b>
 </p>
