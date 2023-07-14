@@ -50,7 +50,7 @@ ICON   |   &#x2B50;  | &#x1F324; | &#x1F514;| &#x1F4DD;
 
 &nbsp;[2] &#x2B50; Zongyang L, Huajian C, Kun H, Fangfang F, Lian C, **Shuo X**. Investigation on the effect of low aspect ratio on heat transfer characteristics for light metallic layer[J]. Progress in Nuclear Energy, 2021, 136: 103732. [https://doi.org/10.1016/j.pnucene.2021.103732](https://doi.org/10.1016/j.pnucene.2021.103732)
 
-&nbsp;[3] &#x2B50; &nbsp; (&#x1F4DD;)  **Shuo X**; Yucheng Z; Gang C; Peng C; Xincheng X; Yuewen S*. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction.[J]. IEEE Transactions on Medical Imaging. (Submitted)
+&nbsp;[3] &#x2B50; &nbsp; (&#x1F4DD;)  **Shuo X**; Yucheng Z; Gang C; Peng C; Xincheng X; Yuewen S*. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction.[J]. [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) (Submitted, **IF = 10.6**)
 
 &nbsp;[4] &#x2B50; &nbsp; (&#x1F4DD;) Huaxia Zhang, **Shuo Xu**, Jichen Miao, Yuewen Sun* and Zhifang Wu*; Studies and Rejection of Intercrystal Crosstalk in a High-energy Photon-counting System.[J]. IEEE Transactions on Nuclear Science. (Under review)
 
