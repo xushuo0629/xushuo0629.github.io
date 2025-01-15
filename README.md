@@ -91,7 +91,7 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 &nbsp;[20] &#x1F514; &nbsp;  孙跃文，**许硕**, 丛鹏, 向新程. CT 图像的重建方法、装置、电子设备及存储介质：中国，202311337610.6[P].2023-10-16. 
 
------------------------------------------------------------- work in Meyer ---------------------------------------------------------------------------
+---------------------------- work in Meyer ------------------
 
 &nbsp;[21]  &#x2B50; &nbsp; Huaxia Zhang; Shibo Jiang; Sun Yuewen; ZeHuang Zhang; **Shuo Xu***. Industrial digital radiographic image denoising based on improved KBNet.  Journal of X-Ray Science and Technology. 2024;32(6):1521-1534. [doi: 10.3233/XST-240125](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst240125). 
 
