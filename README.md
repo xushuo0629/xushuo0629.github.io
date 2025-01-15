@@ -102,6 +102,6 @@ Github: [xushuo0629](https://github.com/xushuo0629)
 
  <p align="right">
   <b><i>
-  Copyright &#x00A9; 2023 ShuoXu. 
+  Copyright &#x00A9; 2025 ShuoXu. 
   </i></b>
 </p>
