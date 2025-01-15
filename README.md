@@ -6,7 +6,7 @@
       <p><b> &ensp;&ensp;&ensp; Dr. </b></p>
       <p><b> &ensp;&ensp;&ensp; Education: INET 501 of Tsinghua University</b></p>
       <p><b> &ensp;&ensp;&ensp; E-mail：xu-s19@tsinghua.org.cn</b></p>
-      <p><b> &ensp;&ensp;&ensp; Enterprise: Hefei Meyer Optoelectronic Technology INC.
+      <p><b> &ensp;&ensp;&ensp; Enterprise: Hefei Meyer Optoelectronic Technology INC.</b></p>
       <p><b> &ensp;&ensp;&ensp; Location：Hefei, Anhui</b></p>     
       <p><b> &ensp;&ensp;&ensp; Languages: Chinese, English</b></p>
     </td>
