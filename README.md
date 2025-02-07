@@ -95,11 +95,11 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 &nbsp;[21]  &#x2B50; &nbsp; Huaxia Zhang; Shibo Jiang; Sun Yuewen; ZeHuang Zhang; **Shuo Xu***. Industrial digital radiographic image denoising based on improved KBNet.  Journal of X-Ray Science and Technology. 2024;32(6):1521-1534. [doi: 10.3233/XST-240125](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst240125). 
 
-&nbsp;[22]  &#x2B50; &nbsp; ShiBo Jiang; **Shuo Xu**; YueWen Sun; ZhiFang Wu*. Research on meshing method for Industrial CT Volume Data Based on Iterative Smooth Signed Distance Surface Reconstruction. Journal of X-Ray Science and Technology. (accepted)
+&nbsp;[22]  &#x2B50; &nbsp; ShiBo Jiang; **Shuo Xu**; YueWen Sun; ZhiFang Wu*. Research on meshing method for Industrial CT Volume Data Based on Iterative Smooth Signed Distance Surface Reconstruction. Journal of X-Ray Science and Technology. 2025;0(0). [doi:10.1177/08953996241306691](https://journals.sagepub.com/doi/10.1177/08953996241306691)
 
 &nbsp;[23]  &#x2B50; &nbsp; Jintao Fu; Yuewen Sun; **Shuo Xu**, et al. Neural Architecture Search with Deep Radon Prior for Sparse-view CT Image Reconstruction. Med Phys. 2025; x-xx.(accepted)
 
-&nbsp;[24]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu**; Yucheng Zhang; YueWen Sun*. The deep radon prior-based stationary CT image reconstruction algorithm for two phase flow inspection. Journal of X-Ray Science and Technology. (under review)
+&nbsp;[24]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu**; Yucheng Zhang; YueWen Sun*. The deep radon prior-based stationary CT image reconstruction algorithm for two phase flow inspection. Journal of X-Ray Science and Technology. 2025;0(0).(accepted)
 
 &nbsp;[25]  &#x2B50; &nbsp;Jiahao Chang; **Shuo Xu**; Jintao Fu; Zhentao Wang; Zhifang Wu. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior. Scientific Reports. (under review) 
 
