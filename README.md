@@ -21,7 +21,7 @@
 
 &ensp;&ensp;&ensp; I am a Ph.D. graduated from the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Xincheng Xiang**](https://baike.baidu.com/item/%E5%90%91%E6%96%B0%E7%A8%8B/49798479?fr=aladdin). 
 
-## &#x1F7E0;Research Interests 👁‍🗨
+## &#x1F7E0; [1] Research Interests 👁‍🗨
 
 &nbsp; 🎈 X-ray Image ; Radiography; Image Reconstruction ;
 
@@ -29,8 +29,7 @@
 
 &nbsp; 🎈 Machine Learning ; Deep Learning ; Image Segmentation ; Image Denoising 
 
-## &#x1F7E1; Education & Work 🎓
-
+## &#x1F7E1; [2] Education & Work 🎓
 
 2015.08  - 2019.06 ： Xi'an Jiaotong University  （Bachelor）
 
@@ -38,7 +37,7 @@
 
 2024.07  -  now ： Hefei Meyer Optoelectronic Technology INC.  （Algorithm engineer）
 
-## &#x1F7E2;Publications & Preprint 📚 
+## &#x1F7E2; [3.1] Publications & Preprint (during Tsinghua) 📚 
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
 
 &nbsp;
@@ -91,7 +90,7 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 &nbsp;[20] &#x1F514; &nbsp;  孙跃文，**许硕**, 丛鹏, 向新程. CT 图像的重建方法、装置、电子设备及存储介质：中国，202311337610.6[P].2023-10-16. 
 
----------------------------- work in Meyer ------------------
+## &#x1F7E2; [3.2] Publications & Preprint (during Meyer)  📚 
 
 &nbsp;[21]  &#x2B50; &nbsp; Huaxia Zhang; Shibo Jiang; Sun Yuewen; ZeHuang Zhang; **Shuo Xu***. Industrial digital radiographic image denoising based on improved KBNet.  Journal of X-Ray Science and Technology. 2024;32(6):1521-1534. [doi: 10.3233/XST-240125](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst240125). 
 
@@ -108,7 +107,7 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 
 
-## &#x1F534; others
+## &#x1F534; [4] others
 
 ResearchGate: [Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21)
 
@@ -119,6 +118,6 @@ Github: [xushuo0629](https://github.com/xushuo0629)
 
  <p align="right">
   <b><i>
-  Copyright &#x00A9; 2025 ShuoXu. 
+  Copyright &#x00A9; 2019~2025 ShuoXu. 
   </i></b>
 </p>
