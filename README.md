@@ -19,7 +19,7 @@
 
 ## &#x1F535; Hello! 👋
 
-&ensp;&ensp;&ensp; I am a Ph.D. graduated from the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Xincheng Xiang**](https://baike.baidu.com/item/%E5%90%91%E6%96%B0%E7%A8%8B/49798479?fr=aladdin). 
+&ensp;&ensp;&ensp; I am a Ph.D. graduated from the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Xincheng Xiang**](https://baike.baidu.com/item/%E5%90%91%E6%96%B0%E7%A8%8B/49798479?fr=aladdin) and [**Yuewen Sun**](https://www.inet.tsinghua.edu.cn/szdw/zjzc.htm). 
 
 ## &#x1F7E0; [1] Research Interests 👁‍🗨
 
@@ -102,6 +102,8 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 &nbsp;[25]  &#x2B50; &nbsp;Jiahao Chang; **Shuo Xu**; Jintao Fu; Zhentao Wang; Zhifang Wu. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior. Scientific Reports. (under review) 
 
 &nbsp;[26]  &#x2B50; &nbsp;Zirou Jiang; Jiahao Chang; **Shuo Xu**; Jichen Miao; Yuewen Sun. TransUNet-CC: A Connected Component-Enhanced TransUNet for Void Segmentation in Two-Phase Flow CT Images. (to be submitted) 
+
+&nbsp;[27]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu**; Jintao Fu; Zirou Jiang; Zhentao Wang; Xincheng Xiang; Peng Cong; Yuewen Sun*. An unspervised sparse-view CT reconstruction framework using combination of iterative deep image prior and ADMM. [J]. Computers in Biology and Medicine.(under review) 
 
 
 
