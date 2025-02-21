@@ -1,9 +1,9 @@
 
 <table border="0">
   <tr>
-    <td width="45%">
+    <td width="50%">
       <h1>  &ensp; &#x1F300;许硕 </h1>   
-      <p><b> &ensp;&ensp;&ensp; Dr. </b></p>
+      <p><b> &ensp;&ensp;&ensp; Dr. Xu </b></p>
       <p><b> &ensp;&ensp;&ensp; Education: INET 501 of Tsinghua University</b></p>
       <p><b> &ensp;&ensp;&ensp; E-mail：xu-s19@tsinghua.org.cn</b></p>
       <p><b> &ensp;&ensp;&ensp; Enterprise: Hefei Meyer Optoelectronic Technology INC.</b></p>
@@ -33,9 +33,9 @@
 
 2015.08  - 2019.06 ： Xi'an Jiaotong University  （Bachelor）
 
-2019.08  - 2024.06 ： Tsinghua University  （Ph.D. candidate）
+2019.08  - 2024.06 ： Tsinghua University  （Ph.D.）
 
-2024.07  -  now ： Hefei Meyer Optoelectronic Technology INC.  （Algorithm engineer）
+2024.07  -  now ： Hefei Meyer Optoelectronic Technology INC.  （Algorithm Engineer）
 
 ## &#x1F7E2; [3.1] Publications & Preprint (during Tsinghua) 📚 
 <!--注释(&nbsp; &#x2B50; : Publications &nbsp; &#x1F324; : Preprint &nbsp;)-->
@@ -114,10 +114,12 @@ ResearchGate: [Shuo Xu](https://www.researchgate.net/profile/Shuo-Xu-21)
 InCareer: [Shuo Xu](https://www.linkedin.cn/incareer/in/%E7%A1%95-%E8%AE%B8-5493811ba?originalSubdomain=cn)
 
 Github: [xushuo0629](https://github.com/xushuo0629)
+
+Google Scholar: [Shuo Xu](https://scholar.google.com.hk/citations?hl=zh-CN&user=bNgS5LIAAAAJ&view_op=list_works&gmla=AOv-ny-vrehFX23WaBnvOFciRXIizUwusr-u067_N5ZUR4MIq-GnxcCK_hpJbxwZrLewwsC9TG6SuUJ7YFvIgXb5OdoL0AfMD5Sl2y6YacQ).
 &nbsp;
 
  <p align="right">
   <b><i>
-  Copyright &#x00A9; 2019~2025 ShuoXu. 
+  Copyright &#x00A9; 2019~2029 ShuoXu. 
   </i></b>
 </p>
