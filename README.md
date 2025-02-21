@@ -101,7 +101,7 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 &nbsp;[25]  &#x2B50; &nbsp;Jiahao Chang; **Shuo Xu**; Jintao Fu; Zhentao Wang; Zhifang Wu. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior. Scientific Reports. (under review) 
 
-&nbsp;[26]  &#x2B50; &nbsp;Zirou Jiang; Jiahao Chang; **Shuo Xu**; Jichen Miao; Yuewen Sun. TransUNet-CC: A Connected Component-Enhanced TransUNet for Void Segmentation in Two-Phase Flow CT Images. (to be submitted) 
+&nbsp;[26]  &#x2B50; &nbsp;Zirou Jiang; Jiahao Chang; **Shuo Xu**; Jichen Miao; Yuewen Sun. TransUNet-CC: A Connected Component-Enhanced TransUNet for Void Segmentation in Two-Phase Flow CT Images.[J]. IEEE Transactions on Nuclear Science. (under review) 
 
 &nbsp;[27]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu(Co-auther)**; Jintao Fu; Zirou Jiang; Zhentao Wang; Xincheng Xiang; Peng Cong; Yuewen Sun*. An unspervised sparse-view CT reconstruction framework using combination of iterative deep image prior and ADMM. [J]. Computers in Biology and Medicine.(under review) 
 
