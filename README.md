@@ -99,11 +99,13 @@ Build-Up Factor for Multilayer Shields.[J] (arXiv to be posted on)  (Open Source
 
 &nbsp;[25]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu**; Zirou Jiang; YueWen Sun*. The deep radon prior-based stationary CT image reconstruction algorithm for two phase flow inspection.[J]. Journal of X-Ray Science and Technology. 2025;0(0).(accepted)
 
-&nbsp;[25]  &#x2B50; &nbsp;Jiahao Chang; **Shuo Xu**; Jintao Fu; Zhentao Wang; Zhifang Wu. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior. Scientific Reports. (under review) 
+&nbsp;[26]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu(Co-auther)**; Jintao Fu; Zirou Jiang; Zhentao Wang; Xincheng Xiang; Peng Cong; Yuewen Sun*. An unspervised sparse-view CT reconstruction framework using combination of iterative deep image prior and ADMM. [J]. Med Phys. (accepted)
 
-&nbsp;[26]  &#x2B50; &nbsp; Zirou Jiang; **Shuo Xu(Co-auther)**; Jiahao Chang; Jichen Miao; Yuewen Sun. Mathematical Modeling and Connectivity-Enhanced Segmentation of Void Fraction in Two-Phase Flow CT images.[J]. Nuclear Inst. and Methods in Physics Research, A. (under review) 
+&nbsp;[27]  &#x2B50; &nbsp;Jiahao Chang; **Shuo Xu**; Jintao Fu; Zhentao Wang; Zhifang Wu. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior. Scientific Reports. (under review) 
 
-&nbsp;[27]  &#x2B50; &nbsp; Jiahao Chang; **Shuo Xu(Co-auther)**; Jintao Fu; Zirou Jiang; Zhentao Wang; Xincheng Xiang; Peng Cong; Yuewen Sun*. An unspervised sparse-view CT reconstruction framework using combination of iterative deep image prior and ADMM. [J]. Med Phys. (under review) 
+&nbsp;[28]  &#x2B50; &nbsp; Zirou Jiang; **Shuo Xu(Co-auther)**; Jiahao Chang; Jichen Miao; Yuewen Sun. Mathematical Modeling and Connectivity-Enhanced Segmentation of Void Fraction in Two-Phase Flow CT images.[J]. Nuclear Inst. and Methods in Physics Research, A. (under review) 
+
+
 
 
 
